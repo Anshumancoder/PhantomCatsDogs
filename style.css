@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(0, 0, 0, 0.937);
+    background-color:black;
 }
 
 .mainPageHeading {
@@ -27,4 +27,34 @@ a {
 .subHeading {
     color: rgb(255, 27, 27);
     text-align: center;
+}
+
+.credits {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.dogsHeading {
+    color: aliceblue;
+    text-align: center;
+    font-size: 45px;
+}
+
+.dogsFacts {
+    color: aliceblue;
+    font-size: 25px;
+    text-align: center;
+}
+
+.catsHeading {
+    color: aliceblue;
+    text-align: center;
+    font-size: 45px;
+}
+
+.catsFacts {
+    color: aliceblue;
+    font-size: 25px;
+    text-align: center
 }
